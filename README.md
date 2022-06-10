@@ -1,6 +1,6 @@
 ## Рабочее окружение
 
-[![Build status](https://ci.appveyor.com/api/projects/status/j57gsl9g2a87mqp5?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-1-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/g8getdhi85y02fmd?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-1-1)
 
 ---
 ### Yarn
