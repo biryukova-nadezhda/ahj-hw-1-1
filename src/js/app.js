@@ -5,4 +5,4 @@ export default function demo(a, b) {
   return a + b;
 }
 
-//console.log('app.js included');
+// console.log('app.js included');
